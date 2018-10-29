@@ -1,8 +1,8 @@
 
 {
-  "name": "brainjs-neural-nets-1",
+  "name": "binary-prediction",
   "version": "1.0.0",
-  "description": "",
+  "description": "Brainjs neural net for binary prediction",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
